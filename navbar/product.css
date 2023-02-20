@@ -1,0 +1,43 @@
+   * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+
+
+   }
+   
+   .pslider {
+      border: 10px solid #0e0d0d; 
+      position: relative; 
+      overflow: hidden; 
+      background: #ffffff;
+     margin:20px auto;
+      width: 758px;
+      height: 450px;
+   }
+   .gslider img {
+      width: 758px;
+	height: 450px; 
+	float: left;
+	
+   }
+   .gambar2 {
+      width: 45rem;
+
+
+   }
+   .choose1:checked ~ .gslider > a > .gambar2 {
+      margin-left: -0px;
+      transition: .5s ease-in-out
+   }
+   .choose2:checked ~ .gslider > a > .gambar2 {
+      margin-left: -390px;
+      transition: .5s ease-in-out
+   }
+   .choose3:checked ~ .gslider > a > .gambar2 {
+      margin-left: -513px;
+      transition: .5s ease-in-out
+   }
+   
+   
+   

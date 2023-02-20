@@ -1,0 +1,21 @@
+Product
+	Food
+		nama umkm
+			a. product
+			b. product
+			c. dst
+	Baverage
+		nama umkm
+			a. product
+			b. product
+			c. dst	
+	Handcraft
+		nama umkm
+			a. product
+			b. product
+			c. dst
+Contact
+	nomor oprator
+	nomor oprator
+	nomor oprator
+About us
